@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Doug Brody</h1>
+    <br><br>
+    <h2><a href="#footer">go to the footer</a></h2>
+    <br><br>
+    <h2>Hakkimda</h2>
+    <br>
+  <li>yas 24</li>
+  <li>ad Dogukan</li>
+  <li>soyad Cölkesen</li>
+  <li>ülke Almanya</li>
+  <li>Sehir Bremen</li>
+    <!-- kisaca kendimden bahsettim -->
+    <br><h1>
+      Isimler
+    </h1><br>
+   <ol type="A">
+    <li>Brayn</li>
+    <li>Misch</li>
+    <li>Ben</li>
+   </ol>
+   
+   <ol type="I">
+    <li>lol</li>
+    <li>lil</li>
+    <li>lal</li>
+   </ol>
+
+   <ol type="1">
+    <li>mim</li>
+    <li>mom</li>
+    <li>mun</li>
+   </ol>
+
+   <ul>
+    <li>huh</li>
+    <li>hih</li>
+    <li>hoh</li>
+   </ul>
+
+   <ul style="list-style-type: none;">
+    <li>gug</li>
+    <li>gig</li>
+    <li>gog</li>
+   </ul>
+
+   <ul style="list-style-type: square;">
+    <li>fuf</li>
+    <li>fif</li>
+    <li>faf</li>
+   </ul>
+
+   <!-- ul>li.item$*4 -->
+
+   <ul>
+    <li class="item1">kak</li>
+    <li class="item2">kuk</li>
+    <li class="item3">kup</li>
+    <li class="item4">kel</li>
+   </ul>
+
+   <!-- div>p#item*6>lorem10 -->
+
+   <div>
+    <p id="item">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, sit!</p>
+    <p id="item">Quod totam sit rem eos adipisci repudiandae quos in tenetur.</p>
+    <p id="item">Adipisci vitae delectus beatae dicta laborum id aspernatur possimus sed!</p>
+    <p id="item">Minus culpa sed dignissimos quae nihil placeat id velit doloremque?</p>
+    <p id="item">Ad sit voluptatem illum quisquam, reiciendis impedit eveniet ullam fuga.</p>
+    <p id="item">Vel unde deserunt sunt reprehenderit, nemo blanditiis officiis. Eaque, vel.</p>
+   </div>
+   <br><br>
+
+   <h2>Emmet / Zen Coding</h2>
+
+   <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_80,h_80/https://assets.ubuntu.com/v1/ea34f006-Multipass+logomark_rgb.svg" alt="ubuntu-img">
+
+   <!--
+    - ayni sayfa icinde bir yere git
+    - baska bir sayfaya git
+    - mail at
+    - telefon et
+   -->
+   
+   <br>
+
+   <a href="https://banner2.cleanpng.com/20180420/few/kisspng-emoji-clown-youtube-emoticon-pennywise-the-clown-5ad975691f49b4.3209034415242008091282.jpg">
+    Click now!
+   </a>
+
+   <br>
+
+   <a href="http://127.0.0.1:5500/iletisim.html">go to the iletisim page!</a>
+   <br><br>
+
+   <h2 id="footer"><a href="#top"> to the top! </a></h2>
+
+   <br><hr><br>
+
+   <li>
+    <a href="mailto:klaus_roe@icloud.com">
+      Send a mail!
+    </a>
+   </li>
+   <br><br>
+
+   <li>
+    <a href="tel:+491632646845">
+      Call now!
+    </a>
+   </li>
+</body>
+</html>
